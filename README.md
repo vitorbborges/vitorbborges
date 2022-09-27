@@ -1,6 +1,5 @@
-<h1> Hey there! I'm vitorbborges. :star2: </h1>
+<h1> Hey there! I'm [vitorbborges]( https://img.shields.io/github/followers/vitorbborges?label=follow&style=social). :star2: </h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="275"/>
-[![GitHub César Freitas]( https://img.shields.io/github/followers/ocesarfreitas?label=follow&style=social)](https://github.com/ocesarfreitas)
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently researching Time-Series Models, Recommender Systems and Natural Language Processing.
