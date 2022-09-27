@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently researching Time-Series Models, Recommender Systems and Natural Language Processing.
 - 🤔 &nbsp; Exploring new technologies, data solutions and quick hacks.
 - 🎓 &nbsp; Studying Economics at the University of Brasilia.
-- 💼 &nbsp; Freelancer at [ENAP](https://enap.gov.br/pt/) and Research Assistant at Brazil's Science and Technology Ministry.
+- 💼 &nbsp; Freelancer at [ENAP](https://enap.gov.br/pt/) and Research Assistant at Brazil's [Science and Technology Ministry](https://www.convergenciadigital.com.br/Gestao/Sem-orcamento%2C-MCTI-usa-inteligencia-artificial-para-captar-dinheiro-59425.html?UserActiveTemplate=mobile).
 - :mag_right: Deputy Coordinator at the [Laboratory for Machine Learning in Finance and Organizations (LAMFO).](https://github.com/lamfo-unb)
 - 🌱 &nbsp; Enthusiast Mathematics, Statistics and Artificial Intelligence .
 - :hourglass_flowing_sand: Solving the Rubik's cube every day a mili-second faster (Current record: 18.11s).
@@ -20,7 +20,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbborges&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs" alt="vitorbborges's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbborges&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&theme=onedark" alt="vitorbborges's Github Stats">
 
 </br>
 
