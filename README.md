@@ -5,9 +5,9 @@
 
 - 🔭 &nbsp; I’m currently researching Time-Series Models, Recommender Systems and Natural Language Processing.
 - 🤔 &nbsp; Exploring new technologies, data solutions and quick hacks.
-- 🎓 &nbsp; Studying Economics in the University of Brasilia
-- 💼 &nbsp; Freelancer and Research Assistant.
-- :mag_right: 
+- 🎓 &nbsp; Studying Economics at the University of Brasilia.
+- 💼 &nbsp; Freelancer at [ENAP](https://enap.gov.br/pt/) and Research Assistant at Brazil's Science and Technology Ministry.
+- :mag_right: Deputy Coordinator at the [Laboratory for Machine Learning in Finance and Organizations (LAMFO).](https://github.com/lamfo-unb)
 - 🌱 &nbsp; Enthusiast Mathematics, Statistics and Artificial Intelligence .
 - ✍️ &nbsp; Solving the Rubik's cube every day a mili-second faster.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
@@ -17,7 +17,7 @@
 - 💻 &nbsp; Python | R | LaTeX | SQL
 - 🌐 &nbsp; Portuguese | English | French | German
 - 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🖥 &nbsp;  | Illustrator | Photoshop | OpenShot
 
 <br>
 
