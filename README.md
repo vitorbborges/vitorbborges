@@ -1,4 +1,4 @@
-<h1> Hey there! I'm vitorbborges. </h1>
+<h1> Hey there! I'm vitorbborges. :star2: </h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="275"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
