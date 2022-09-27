@@ -1,4 +1,4 @@
-<h1> Hey there! I'm vitorbborges. :star2: [![GitHub Vítor Bandeira Borges]( https://img.shields.io/github/followers/vitorbborges?label=follow&style=social)](https://github.com/vitorbborges)</h1>
+<h1> Hey there! I'm vitorbborges. :star2: </h1> [![GitHub Vítor Bandeira Borges]( https://img.shields.io/github/followers/vitorbborges?label=follow&style=social)](https://github.com/vitorbborges)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="275"/>
 
 [![GitHub Vítor Bandeira Borges]( https://img.shields.io/github/followers/vitorbborges?label=follow&style=social)](https://github.com/vitorbborges)
