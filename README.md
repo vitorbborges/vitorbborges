@@ -9,15 +9,14 @@
 - 💼 &nbsp; Freelancer at [ENAP](https://enap.gov.br/pt/) and Research Assistant at Brazil's Science and Technology Ministry.
 - :mag_right: Deputy Coordinator at the [Laboratory for Machine Learning in Finance and Organizations (LAMFO).](https://github.com/lamfo-unb)
 - 🌱 &nbsp; Enthusiast Mathematics, Statistics and Artificial Intelligence .
-- ✍️ &nbsp; Solving the Rubik's cube every day a mili-second faster.
+- :hourglass_flowing_sand: Solving the Rubik's cube every day a mili-second faster (Current record: 18.11s).
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R | LaTeX | SQL
-- 🌐 &nbsp; Portuguese | English | French | German
 - 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code | Git
-- 🖥 &nbsp;  | Illustrator | Photoshop | OpenShot
+- 🌐 &nbsp; Portuguese | English | French | German
 
 <br>
 
