@@ -18,11 +18,11 @@
 - 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code | Git
 - 🌐 &nbsp; Portuguese | English | French | German
 
-<br><center>
+<body>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbborges&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&theme=algolia" alt="vitorbborges's Github Stats">
-</center>
-</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbborges&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&theme=algolia" alt="vitorbborges's Github Stats" />
+
+</body>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbborges&layout=compact&hide=HTML&theme=algolia)](https://github.com/vitorbborges/github-readme-stats)
 
