@@ -32,6 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbborges&layout=compact&hide=HTML&theme=algolia)](https://github.com/vitorbborges/github-readme-stats)
 
+-----
 
 <h3> 🤝🏻 Connect with Me </h3>
 
