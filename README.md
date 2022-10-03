@@ -3,6 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="275"/>
 
 [![GitHub Vítor Bandeira Borges]( https://img.shields.io/github/followers/vitorbborges?label=follow&style=social)](https://github.com/vitorbborges)
+
 ![Visitor Count](https://profile-counter.glitch.me/vitorbborges/count.svg)
 
 <h3> - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me </h3>
