@@ -22,6 +22,8 @@
 - 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code | Git
 - 🌐 &nbsp; Portuguese | English | French | German
 
+-----
+
 <body>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbborges&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&theme=algolia" alt="vitorbborges's Github Stats">
