@@ -4,8 +4,6 @@
 
 [![GitHub Vítor Bandeira Borges]( https://img.shields.io/github/followers/vitorbborges?label=follow&style=social)](https://github.com/vitorbborges)
 
-![Visitor Count](https : //profile-counter.glitch.me/vitorbborges/count.svg)
-
 <h3> - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me </h3>
 
 - 🔭 &nbsp; I’m currently researching Time-Series Models, Recommender Systems and Natural Language Processing.
@@ -46,5 +44,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/v%C3%ADtor-bandeira-borges/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:vitorbborges31@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
+![Visitor Count](https : //profile-counter.glitch.me/vitorbborges/count.svg)
 ⭐️ From [devSouvik](https://github.com/devSouvik)
