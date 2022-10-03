@@ -33,6 +33,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbborges&layout=compact&hide=HTML&theme=algolia" alt="vitorbborges's Top Langs Stats">
 </p>
 
+-----
 
 <h3> 🤝🏻 Connect with Me </h3>
 
