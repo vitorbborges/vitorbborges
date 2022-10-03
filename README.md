@@ -16,7 +16,7 @@
 
 -----
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 <strong>Tech Stack<strong/></h3>
 
 - 💻 &nbsp; Python | R | LaTeX | SQL
 - 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code | Git
