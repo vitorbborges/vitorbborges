@@ -14,6 +14,8 @@
 - :hourglass_flowing_sand: &nbsp; Solving the Rubik's cube every day a mili-second faster (Current record: 18.11s).
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
+-----
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R | LaTeX | SQL
