@@ -30,8 +30,7 @@
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbborges&layout=compact&hide=HTML&theme=algolia)](https://github.com/vitorbborges/github-readme-stats)
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbborges&layout=compact&hide=HTML&theme=algolia" alt="vitorbborges's Top Langs Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbborges&layout=compact&hide=HTML&theme=algolia" alt="vitorbborges's Top Langs Stats">
 </p>
 
 
