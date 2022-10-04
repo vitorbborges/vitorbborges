@@ -10,7 +10,7 @@
 - 🔭 &nbsp; I’m currently researching Time-Series Models, Recommender Systems and Natural Language Processing.
 - 🤔 &nbsp; Exploring new technologies, data solutions and quick hacks.
 - 🎓 &nbsp; Studying Economics at the University of Brasilia.
-- 💼 &nbsp; Freelancer at [ENAP](https://enap.gov.br/pt/) and Research Assistant at Brazil's [Science and Technology Ministry](https://www.convergenciadigital.com.br/Gestao/Sem-orcamento%2C-MCTI-usa-inteligencia-artificial-para-captar-dinheiro-59425.html?UserActiveTemplate=mobile).
+- 💼 &nbsp; Freelancer at [ENAP](https://enap.gov.br/pt/) and Research Assistant at [Brazil's Science and Technology Ministry](https://www.convergenciadigital.com.br/Gestao/Sem-orcamento%2C-MCTI-usa-inteligencia-artificial-para-captar-dinheiro-59425.html?UserActiveTemplate=mobile).
 - :mag_right: &nbsp; Deputy Coordinator at the [Laboratory for Machine Learning in Finance and Organizations (LAMFO).](https://github.com/lamfo-unb)
 - 🌱 &nbsp; Enthusiast in Mathematics, Statistics and Artificial Intelligence .
 - :hourglass_flowing_sand: &nbsp; Solving the Rubik's cube every day a mili-second faster (Current record: 18.11s).
