@@ -2,6 +2,9 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="275"/>
 <p/>
+
+-----
+
 <h3> - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me </h3>
 
 - 🔭 &nbsp; I’m currently researching Time-Series Models, Recommender Systems and Natural Language Processing.
