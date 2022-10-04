@@ -1,6 +1,6 @@
 <h1> Hey there! I'm vitorbborges. :star2: </h1> 
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="275"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="275"/>
 
 <h3> - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me </h3>
 
