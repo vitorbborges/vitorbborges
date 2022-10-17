@@ -13,7 +13,7 @@
 - 💼 &nbsp; Freelancer at [ENAP](https://enap.gov.br/pt/) and Research Assistant at [Brazil's Science and Technology Ministry](https://www.convergenciadigital.com.br/Gestao/Sem-orcamento%2C-MCTI-usa-inteligencia-artificial-para-captar-dinheiro-59425.html?UserActiveTemplate=mobile).
 - :mag_right: &nbsp; Deputy Coordinator at the [Laboratory for Machine Learning in Finance and Organizations (LAMFO).](https://github.com/lamfo-unb)
 - 🌱 &nbsp; Enthusiast in Mathematics, Statistics and Artificial Intelligence .
-- :hourglass_flowing_sand: &nbsp; Solving the Rubik's cube every day a mili-second faster (Current record: 15.06s).
+- :hourglass_flowing_sand: &nbsp;  Solving the Rubik's cube every day a mili-second faster (Current record: 15.06s).
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 -----
