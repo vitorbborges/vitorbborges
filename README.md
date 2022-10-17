@@ -20,8 +20,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | R | LaTeX | SQL
-- 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code | Git
+- 💻 &nbsp; Python | R | LaTeX | SQL | Git
+- 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code
 - 🌐 &nbsp; Portuguese | English | French | German
 
 -----
