@@ -20,7 +20,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | R | LaTeX | SQL | Git
+- 💻 &nbsp; Python | R | LaTeX | SQL | Git LFS
 - 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code
 - 🌐 &nbsp; Portuguese | English | French | German
 
