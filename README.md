@@ -21,7 +21,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R | LaTeX | SQL | Git LFS
-- 🔧 &nbsp; Jupyter Notebook | R Markdown | Visual Studio code
+- 🔧 &nbsp; Visual Studio Code | Jupyter Notebook | R Markdown
 - 🌐 &nbsp; Portuguese | English | French | German
 
 -----
