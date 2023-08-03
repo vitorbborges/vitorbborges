@@ -1,6 +1,6 @@
 <h1> Hey there! I'm vitorbborges. </h1> 
 <p align="center">
-<img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/1.gif?raw=true" width="1275"/>
+<img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif?raw=true" width="1275"/>
 <p/>
 
 -----
